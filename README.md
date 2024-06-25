@@ -5,7 +5,7 @@
 <hr>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoALDEV&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoALDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Redes:
 
